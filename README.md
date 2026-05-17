@@ -75,6 +75,8 @@ Users can:
 - Predict popularity instantly
 - View prediction probabilities
 
+  ![Uploading 5.png…]()
+
 ---
 
 # 🧠 Machine Learning Models Compared
