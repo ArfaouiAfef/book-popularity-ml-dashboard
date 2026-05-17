@@ -95,9 +95,16 @@ The best model was selected based on:
 # 📈 Dashboard Pages
 
 1. Overview Dashboard
-2. Review & Sentiment Analysis
-3. Authors & Categories Analysis
-4. Advanced Analytics & ML Performance
+   <img width="1320" height="743" alt="1" src="https://github.com/user-attachments/assets/288c8b47-66bb-4665-a976-abec293b12b5" />
+
+3. Review & Sentiment Analysis
+   <img width="1321" height="743" alt="2" src="https://github.com/user-attachments/assets/294ab41f-3137-466a-b80c-2fe20013f12d" />
+
+5. Authors & Categories Analysis
+   <img width="1323" height="745" alt="3" src="https://github.com/user-attachments/assets/5dfb7bca-cbf9-48f0-bb35-2074dbdc14b5" />
+
+7. Advanced Analytics & ML Performance
+   <img width="1323" height="744" alt="4" src="https://github.com/user-attachments/assets/b65d374a-605e-4f5c-938c-cd265d3dcef0" />
 
 ---
 
